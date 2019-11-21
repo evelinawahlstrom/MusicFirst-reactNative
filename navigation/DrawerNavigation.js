@@ -4,7 +4,7 @@ import { createDrawerNavigator } from 'react-navigation-drawer'
 import { createAppContainer } from 'react-navigation'
 
 import HomeScreen from '../screens/HomeScreen'
-import Drink from '../screens/Drink'
+import PayPal from '../screens/PayPal'
 
 const WIDTH = Dimensions.get('window').width;
 
@@ -12,9 +12,9 @@ const DrawerNavigator = createDrawerNavigator({
     Home: {
         screen: HomeScreen
     },
-   Drink: {
-        screen: Drink
-    },
+    PayPal: {
+        screen: PayPal
+    }
     })
 
 export default createAppContainer(DrawerNavigator)

@@ -7,7 +7,7 @@ import {Feather} from '@expo/vector-icons'
 
 import {
   MusicFirst,
-  ProfileScreen,
+  Profile,
   Drink,
   Eat,
   Friends,
@@ -27,8 +27,8 @@ const DrawerNavigator = createDrawerNavigator({
       drawerIcon: ({ tintColor }) => <Feather name="user" size={16} color={tintColor}/>
     }
   },
-  ProfileScreen: {
-    screen: ProfileScreen,
+  Profile: {
+    screen: Profile,
     navigationOptions: {
       title: "PROFILE",
       drawerIcon: ({ tintColor }) => <Feather name="user" size={16} color={tintColor}/>
