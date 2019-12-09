@@ -38,9 +38,9 @@ React Native, Expo....
 
 ## Create React Native App with the help of Expo
 
-**[The docs for creating a React Native App can be found here](https://facebook.github.io/react-native/docs/getting-started)**
+**The docs for creating a React Native App can be found [HERE](https://facebook.github.io/react-native/docs/getting-started)**
 <br/>
-**[Expo QuickStart HERE](https://docs.expo.io/versions/latest/)**
+**Expo QuickStart[HERE](https://docs.expo.io/versions/latest/)**
 
 
 ## Features working 
