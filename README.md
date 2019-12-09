@@ -19,6 +19,9 @@ I choose to use React Native to build a a music festival app that makes payment 
 - It should be easy to pay with your phone and then add who you’re paying for by adding that persons name to the order. The idea is then that the person will get an “invoice” to their profile page. 
 - I've decided to use PayPal as it's an international payment system
 
+## Related repositories
+
+**[The backend can be found here](https://github.com/evelinawahlstrom/MusicFirst-nodejs)**
 
 ## Table of contents:
 - **[Technologies used](#technologies-used)**
