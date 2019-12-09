@@ -60,10 +60,14 @@ THEN run the following command to install all the dependencies
 npm install
 ```
 
-- Before launching the app (with ????) , please make sure that the server side is up and running.
+- Before launching the app, please make sure that the server side is up and running.
   <br/> --> Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/MusicFirst-nodejs)** to install and run the server.
 
-4. Run ???? 
+4. Start the app with
+
+```expo start ```
+
+ ```press i to launch the app on IOS using XCode```
 
 ## Create React Native App with the help of Expo
 
