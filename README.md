@@ -40,7 +40,7 @@ React Native, Expo....
 
 **[The docs for creating a React Native App can be found here](https://facebook.github.io/react-native/docs/getting-started)**
 <br/>
-**[The Expo docs can be found here](https://expo.io/learn)**
+**[Expo QuickStart HERE](https://docs.expo.io/versions/latest/)**
 
 
 ## Features working 
