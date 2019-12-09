@@ -11,6 +11,15 @@ Rules:
 
 Theme (randomly selected): :money_with_wings:
 
+## Project description
+
+I choose to use React Native to build a a music festival app that makes payment easy for the attendees
+My idea come from the many festivals I've attended where the payment is always tricky. During a festival you want to focus on what's important - the music, that's why this app **MusicFirst** was built to enable a modern festival. 
+
+- It should be easy to pay with your phone and then add who you’re paying for by adding that persons name to the order. The idea is then that the person will get an “invoice” in their profile page. 
+- I've decided to use PayPal as it's an international payment system
+
+
 ## Table of contents:
 - **[Technologies used](#technologies-used)**
 - **[How to install](#how-to-install)**
