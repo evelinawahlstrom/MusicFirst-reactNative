@@ -2,7 +2,7 @@
  
 ## What this project is about:
 
-Hackaton challenge showcasing my ability to learn something new in 2,5 days during my time at Codaisseur. Final week of the bootcamp. 
+Hackaton challenge showcasing my ability to learn something new in 2,5 days during my time at Codaisseur. Final week of the bootcamp. This is the client. See related repository for the server.
 
 Rules: 
 - You have 3 days to make the most awesome app
@@ -40,7 +40,16 @@ The instructions below are for Mac users.
 
 Before being able to install the app and make it run you need to have React-Native, npm and Xcode installed.
 
-Npm is the package manager used and the Xcode tool is used to simulate an iPhone to test your app. 
+1. Clone the git repository
+
+`git clone https://github.com/evelinawahlstrom/ad-assignment-client`
+
+2. cd into the folder MusicFirst-reactNative
+
+3. Run npm install and before launching the app (with ????) , please make sure that the server side is up and running.
+-  Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/MusicFirst-nodejs)** to install and run the server.
+
+4. Run ???? 
 
 ## Create React Native App with the help of Expo
 
