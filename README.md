@@ -32,7 +32,7 @@ I choose to use React Native to build a a music festival app that makes payment 
 - **[To do](#to-do)**
 
 ## Technologies used
-React Native, Expo....
+React-Native, Expo
 
 ## How to install
 
