@@ -11,3 +11,10 @@ Rules:
 
 Theme (randomly selected): :money_with_wings:
 
+## Table of contents:
+- **[Technologies used](#technologies-used)**
+- **[How to install](#how-to-install)**
+- **[Create React Native Docs](#create-react-native)**
+- **[Features working](#features-working)**
+- **[My progress](#my-progress)**
+- **[To do](#to-do)**
