@@ -27,3 +27,20 @@ I choose to use React Native to build a a music festival app that makes payment 
 - **[Features working](#features-working)**
 - **[My progress](#my-progress)**
 - **[To do](#to-do)**
+
+## Technologies used
+React Native, Expo....
+
+## How to install
+
+## Create React Native App with the help of Expo
+
+**[The docs for creating a react native app can be found here](https://facebook.github.io/react-native/docs/getting-started)**
+**[The Expo docs can be found here](https://expo.io/learn)**
+
+
+## Features working 
+
+## My progress
+
+## To do
