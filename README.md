@@ -2,7 +2,7 @@
  
 ## What this project is about:
 
-Hackaton challenge showcasing my ability to learn something new in 2,5 days during my time at Codaisseur. Final week of the bootcamp. This is the client. See related repository for the server.
+Hackaton challenge showcasing my ability to learn something new in 2,5 days during my time at Codaisseur. Final week of the bootcamp. **THIS IS THE CLIENT**. See **[related repository for the server](#related-repositories)**
 
 Rules: 
 - You have 3 days to make the most awesome app
