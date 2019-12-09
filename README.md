@@ -46,8 +46,13 @@ Before being able to install the app and make it run you need to have React-Nati
 
 2. cd into the folder MusicFirst-reactNative
 
-3. Run npm install and before launching the app (with ????) , please make sure that the server side is up and running.
--  Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/MusicFirst-nodejs)** to install and run the server.
+3. In your terminal, run the following command to install all the dependencies
+
+```
+npm install
+```
+- Before launching the app (with ????) , please make sure that the server side is up and running.
+  --> Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/MusicFirst-nodejs)** to install and run the server.
 
 4. Run ???? 
 
