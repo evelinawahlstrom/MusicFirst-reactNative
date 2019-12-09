@@ -42,9 +42,6 @@ The instructions below are for Mac users.
 - **[Expo](https://expo.io/learn)**
 - and **[Xcode](https://apps.apple.com/se/app/xcode/id497799835?l=en&mt=12)**
 
-Assuming that you have Node 10 LTS or greater installed, you can use npm to install the Expo CLI command line utility:
- ` npm install -g expo-cli `
-
 1. Clone the git repository
 
 ` git clone https://github.com/evelinawahlstrom/MusicFirst-reactNative `
@@ -53,8 +50,9 @@ Assuming that you have Node 10 LTS or greater installed, you can use npm to inst
 
 3. In your terminal, run the following command to install all the dependencies
 
+Assuming that you have Node 10 LTS or greater installed, you can use npm to install the Expo CLI command line utility:
 ```
-npm install
+npm install -g expo-cli
 ```
 - Before launching the app (with ????) , please make sure that the server side is up and running.
   <br/> --> Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/MusicFirst-nodejs)** to install and run the server.
