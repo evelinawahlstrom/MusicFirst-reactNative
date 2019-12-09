@@ -38,7 +38,10 @@ React-Native, Expo
 
 The instructions below are for Mac users.
 
-Before being able to install the app and make it run you need to have React-Native, npm and Xcode installed.
+Before being able to install the app and make it run you need to have 
+- **[React-Native]()** 
+- **[Expo](https://expo.io/learn)**
+- and **[Xcode](https://apps.apple.com/se/app/xcode/id497799835?l=en&mt=12)**
 
 1. Clone the git repository
 
