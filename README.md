@@ -75,9 +75,10 @@ npm install
 <br/>
 **Expo QuickStart [HERE](https://docs.expo.io/versions/latest/)**
 
-
 ## Features working 
 
 ## My progress
+As I only had 2,5 days to finish the app and one of the rules were to use a to me, new technology. I began to read the React Native docs and watch some tutorials <br/>
+- I found **[THIS](https://www.youtube.com/watch?v=qSRrxpdMpVc)** helpful
 
 ## To do
