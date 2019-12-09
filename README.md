@@ -65,7 +65,7 @@ npm install
 
 4. Start the app with
 
-```expo start ```
+```expo start ``` **OR** ```npm start ```
 
  ```press i to launch the app on IOS using XCode```
 
