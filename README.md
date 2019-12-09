@@ -42,7 +42,7 @@ Before being able to install the app and make it run you need to have React-Nati
 
 1. Clone the git repository
 
-`git clone https://github.com/evelinawahlstrom/ad-assignment-client`
+` git clone https://github.com/evelinawahlstrom/MusicFirst-reactNative `
 
 2. cd into the folder MusicFirst-reactNative
 
