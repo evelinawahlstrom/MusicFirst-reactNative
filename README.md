@@ -36,6 +36,12 @@ React Native, Expo....
 
 ## How to install
 
+The instructions below are for Mac users.
+
+Before being able to install the app and make it run you need to have React-Native, npm and Xcode installed.
+
+Npm is the package manager used and the Xcode tool is used to simulate an iPhone to test your app. 
+
 ## Create React Native App with the help of Expo
 
 **The docs for creating a React Native App can be found [HERE](https://facebook.github.io/react-native/docs/getting-started)**
