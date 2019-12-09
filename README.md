@@ -46,7 +46,7 @@ The instructions below are for Mac users.
 
 1. Clone the git repository
 
-``` git clone https://github.com/evelinawahlstrom/MusicFirst-reactNative `
+``` git clone https://github.com/evelinawahlstrom/MusicFirst-reactNative ```
 
 2. cd into the folder MusicFirst-reactNative
 
