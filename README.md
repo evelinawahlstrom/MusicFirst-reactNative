@@ -52,7 +52,7 @@ Before being able to install the app and make it run you need to have React-Nati
 npm install
 ```
 - Before launching the app (with ????) , please make sure that the server side is up and running.
-  --> Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/MusicFirst-nodejs)** to install and run the server.
+  <br/> --> Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/MusicFirst-nodejs)** to install and run the server.
 
 4. Run ???? 
 
