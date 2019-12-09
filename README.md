@@ -76,9 +76,17 @@ npm install
 **Expo QuickStart [HERE](https://docs.expo.io/versions/latest/)**
 
 ## Features working 
+- The hamburger menu is working (not visible though) and exist in the upper left corner. 
+- It's possible to view each of the menu items in the hamburger menu
+- The PAYMENT side is working, integrated with PayPal ( a sandbox account for developing process ) and by clicking on the upper space in the middle, you get redirected to a PayPal account to pay.
 
 ## My progress
 As I only had 2,5 days to finish the app and one of the rules were to use a to me, new technology. I began to read the React Native docs and watch some tutorials <br/>
-- I found **[THIS](https://www.youtube.com/watch?v=qSRrxpdMpVc)** helpful
+- I found **[this youtube crash course helpful](https://www.youtube.com/watch?v=qSRrxpdMpVc)**
+- I used **[this article to read about PayPal integration](https://medium.com/@adityasingh_32512/integrating-paypal-in-your-react-native-app-4dcf89e11dd)**
 
 ## To do
+- Visualize the hamburger menu (right now it's in the upper left corner, clickable but not visible)
+- Add other payment solutions like SWISH (Swedish payment method), costsplit, KLARNA etc
+- Make it possible to add FRIENDS
+- Develop each individual page like DRINKS, EAT etc with content
