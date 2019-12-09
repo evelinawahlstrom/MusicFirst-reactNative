@@ -38,10 +38,12 @@ React-Native, Expo
 
 The instructions below are for Mac users.
 
-### :woman_technologist: Before being able to install the app and make it run you need to have :woman_technologist:
-- **[React-Native]()** 
+### :woman_technologist: Before being able to install the app and make it run you need to have: :woman_technologist:
 - **[Expo](https://expo.io/learn)**
 - and **[Xcode](https://apps.apple.com/se/app/xcode/id497799835?l=en&mt=12)**
+
+Assuming that you have Node 10 LTS or greater installed, you can use npm to install the Expo CLI command line utility:
+ ` npm install -g expo-cli `
 
 1. Clone the git repository
 
