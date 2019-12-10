@@ -71,8 +71,11 @@ npm install
 ```expo start ``` **OR** ```npm start ```
 
  ```press i to launch the app on iOS using XCode```
+5. If a window popups in the simulator with a welcoming message 
+
+``click on the X to continue``
  
- 5. When the window "run with expo" shows:
+6. If the simulator show a window with the text "run with expo":
  
  ```click run```
 
