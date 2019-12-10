@@ -89,7 +89,7 @@ npm install
 
 ## Gif showing my React-Native App
 ![musicFirst1](https://user-images.githubusercontent.com/54844766/70535673-bfae4880-1b5d-11ea-907d-86f623f496be.gif)
-
+![musicFirst2](https://user-images.githubusercontent.com/54844766/70535787-eff5e700-1b5d-11ea-8b4b-ccc2b295b1a6.gif)
 
 ## My progress
 As I only had 2,5 days to finish the app and one of the rules were to use a to me, new technology. I began to read the React Native docs and watch some tutorials <br/>
