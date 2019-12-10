@@ -9,13 +9,14 @@ export default StyleSheet.create({
     justifyContent: 'center',
     paddingHorizontal: 20,
     paddingTop: 20,
+    backgroundColor: 'pink'
   },
   title: {
     fontSize: 60,
     fontWeight: 'bold',
     alignSelf: 'center',
     marginBottom: 30,
-    fontFamily: 'Georgia'
+    fontFamily: 'Cochin'
   },
   buttonText: {
     fontSize: 18,
