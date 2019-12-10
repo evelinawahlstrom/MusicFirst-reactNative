@@ -69,7 +69,11 @@ npm install
 
 ```expo start ``` **OR** ```npm start ```
 
- ```press i to launch the app on IOS using XCode```
+ ```press i to launch the app on iOS using XCode```
+ 
+ 5. When the window "run with expo" shows:
+ 
+ ```click run```
 
 ## Create React Native App with the help of Expo
 
