@@ -7,10 +7,10 @@ navigation={navigation}
 name="MusicFirst"
 text="At MusicFirst Festival we invite you to a modern festival, where payment's made easy"/>
 
-export const Profile = ({navigation}) => 
-<HomeScreen
+export const Profile = ({navigation}) => <HomeScreen
 navigation={navigation} 
-name="PROFILE"/>
+name="PROFILE"
+/>
 
 export const Lineup = ({navigation}) => <HomeScreen navigation={navigation} name="LINE-UP"/>
 

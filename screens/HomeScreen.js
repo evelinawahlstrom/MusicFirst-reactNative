@@ -51,5 +51,3 @@ const styles = StyleSheet.create({
 },
 })
 
-
-// <Image source={require('../assets/profile-pic.jpeg')} style={styles.profile}/>
